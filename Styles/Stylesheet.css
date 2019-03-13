@@ -4,13 +4,15 @@ body {
 }
 
 h1 {
+    background-color: teal;
     color: red;
     margin-left: 20px;
     text-shadow: 4 px 4 px firebrick;
 }
 
 h2 {
+    text-align: center;
+    align-content: center;
     color: bisque;
-    margin-left: 40 px;
     text-decoration: blue;
 }
