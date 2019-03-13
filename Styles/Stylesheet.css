@@ -20,12 +20,20 @@ h1 {
     background-color: teal;
     color: red;
     margin-left: 20px;
+    margin-right: 20px;
     text-shadow: 4 px 4 px firebrick;
 }
 
 h2 {
     text-align: left;
     align-content: center;
-    color: darkblue;
+    color: Black;
     text-decoration: blue;
+}
+
+h3 {
+    text-align: center;
+    color: darkblue;
+    
+
 }
