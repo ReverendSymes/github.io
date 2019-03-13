@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="270">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -55,7 +55,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="831" />
     <option name="y" value="22" />
-    <option name="width" value="589" />
+    <option name="width" value="609" />
     <option name="height" value="845" />
   </component>
   <component name="ProjectView">
@@ -110,18 +110,18 @@
       <option name="presentableId" value="Default" />
       <updated>1552095187826</updated>
       <workItem from="1552095189890" duration="1100000" />
-      <workItem from="1552501243445" duration="399000" />
+      <workItem from="1552501243445" duration="497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1499000" />
+    <option name="totallyTimeSpent" value="1597000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="831" y="22" width="589" height="845" extended-state="0" />
+    <frame x="831" y="22" width="609" height="845" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12147887" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11734694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -154,8 +154,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="270">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>
