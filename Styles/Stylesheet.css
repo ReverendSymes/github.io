@@ -1,8 +1,13 @@
 body {
-    background-color: lightblue;
+    background-color: teal;
 }
 
 h1 {
     color: red;
     margin-left: 20px;
+}
+
+h2{
+    color: bisque;
+    margin-left: 40 px;
 }
