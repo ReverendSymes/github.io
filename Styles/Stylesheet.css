@@ -5,10 +5,11 @@ body {
 h1 {
     color: red;
     margin-left: 20px;
-    text-shadow:firebrick;
+    text-shadow: 4 px 4 px firebrick;
 }
 
 h2 {
     color: bisque;
     margin-left: 40 px;
+    text-decoration: blue;
 }
