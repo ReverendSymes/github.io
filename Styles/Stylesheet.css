@@ -9,7 +9,7 @@
 }
 
 [class*="col-"] {
-    float: center;
+    float: left;
     padding: 15px;
 }
 
@@ -60,8 +60,7 @@
 .name{
     font-family: "American Typewriter";
     text-align: center;
-    background-color: #33b5e5 ;
-    font-size: 18px;
+    font-size: 100%;
     color: darkblue;
 }
 
@@ -126,7 +125,7 @@
 body {
 
     /*background-image: url("https://media.giphy.com/media/43n7h7h3IBqDK/giphy.gif");*/
-   background-image: repeating-linear-gradient(lightgray 0,lightblue 10%);
+   background-image: repeating-linear-gradient(yellow 0, lightblue 100%);
     /*background-color: lightgray;*/
 
 }
