@@ -1,48 +1,134 @@
-/* For Desktop: */
+* {
+    box-sizing: border-box;
+}
 
-.col-1 {width: 33.3%}
-.col-2 {width: 33.3%}
-.col-3 {width: 33.3%}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
 
-@media only screen and (max-width: 768px) {
-    /* For mobile Phones */
-    [class*="col-"] {
-        width: 100%;
-    }
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+
+html {
+    font-family: "Lucida Sans", sans-serif;
+}
+
+.header {
+    background-color: lightcoral;
+    color: #ffffff;
+    padding: 15px;
+}
+
+.pic {
+    align-content: center;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 
 }
+
+.menu li {
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color: #33b5e5;
+    color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.menu li:hover {
+    background-color: #0099cc;
+}
+
+
+.Rfile {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    padding: 15px;
+}
+
+/*LINNENENENENENNENENEE*/
+
+.name{
+    font-family: "American Typewriter";
+    text-align: center;
+    background-color: #33b5e5 ;
+    font-size: 18px;
+    color: darkblue;
+}
+.contactinf{
+    text-align: left;
+    background-color: lightblue;
+    color: darkblue;
+    font-family: "American Typewriter";
+
+
+}
+
+.listing{
+    text-align: left;
+    background-color: darkblue;
+    color: white;
+    padding: 12px;
+    margin: 5%;
+
+
+}
+
+/* For mobile smaller screens */
+[class*="col-"] {
+    width: 100%;
+}
+
+@media only screen and (min-width: 768px) {
+    /* For larger screens */
+    .col-1 {width: 100;}
+    .col-2 {width: 40%;}
+    .col-3 {width: 60%;}
+    .col-4 {width: 50%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+}
+
+
+
 body {
-    background-image: url("https://media.giphy.com/media/43n7h7h3IBqDK/giphy.gif");
-    background-color: teal;
+
+    /*background-image: url("https://media.giphy.com/media/43n7h7h3IBqDK/giphy.gif");*/
+   background-image: repeating-linear-gradient(lightgray 0,lightblue 10%);
+    /*background-color: lightgray;*/
+
 }
+
+
 
 h1 {
-    background-color: teal;
-    color: red;
-    margin-left: 20px;
-    margin-right: 20px;
-    text-shadow: 4 px 4 px firebrick;
+    color: darkblue;
+    column-span: 1;
+    font-family: "American Typewriter";
+
 }
 
-h2 {
-    text-align: left;
-    align-content: center;
-    color: Black;
-    text-decoration: blue;
-    text-indent: each-line;
+h2{
+    font-size: 12px;
+
 }
 
 h3 {
-    text-align: center;
-    color: darkblue;
-
-
-
-}
-
-h4 {
-    text-align: left;
-    color: Black;
+    font-size: 16px;
+    color: white;
 
 
 }
