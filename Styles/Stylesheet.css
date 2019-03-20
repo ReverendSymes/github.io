@@ -87,6 +87,8 @@
     padding: 12px;
     margin: 5%;
     font-size: 200%;
+    font-family: "American Typewriter";
+
 }
 
 .smlist{
@@ -97,6 +99,7 @@
     color: white;
     padding: 12px;
     margin: 5%;
+    font-family: "American Typewriter";
 }
 
 .Rfile {
