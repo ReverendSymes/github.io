@@ -49,18 +49,12 @@
 }
 
 .dropdown:hover .dropdown-content {display: block;}
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
-
-
-
-
-
 
 
 .name{
     font-family: "American Typewriter";
     text-align: center;
-    font-size: 100%;
+    font-size: 500%;
     color: darkblue;
 }
 
