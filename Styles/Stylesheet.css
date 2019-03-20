@@ -102,7 +102,7 @@
     width: 100%;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 922px) {
     /* For larger screens */
     .col-1 {width: 100;}
     .col-2 {width: 40%;}

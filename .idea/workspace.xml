@@ -41,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/Styles/Stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="104" selection-start-line="104" selection-end-line="105" />
+              <caret line="104" column="38" selection-start-line="104" selection-start-column="38" selection-end-line="104" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -65,8 +65,8 @@
         <option value="$PROJECT_DIR$/PortIndex.html" />
         <option value="$PROJECT_DIR$/../PortfolioSymes/PortIndex.html" />
         <option value="$PROJECT_DIR$/CATS.html" />
-        <option value="$PROJECT_DIR$/Styles/Stylesheet.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Styles/Stylesheet.css" />
       </list>
     </option>
   </component>
@@ -129,12 +129,12 @@
       <updated>1552095187826</updated>
       <workItem from="1552095189890" duration="1100000" />
       <workItem from="1552501243445" duration="9315000" />
-      <workItem from="1553046877347" duration="13035000" />
+      <workItem from="1553046877347" duration="13177000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23450000" />
+    <option name="totallyTimeSpent" value="23592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="22" width="1395" height="845" extended-state="0" />
@@ -192,7 +192,7 @@
     <entry file="file://$PROJECT_DIR$/Styles/Stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="104" selection-start-line="104" selection-end-line="105" />
+          <caret line="104" column="38" selection-start-line="104" selection-start-column="38" selection-end-line="104" selection-end-column="38" />
         </state>
       </provider>
     </entry>
