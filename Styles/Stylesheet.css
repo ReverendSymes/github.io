@@ -73,7 +73,6 @@
 
 .contactinf{
     text-align: left;
-    background-color: lightblue;
     color: darkblue;
     font-family: "American Typewriter";
     font-size: 200%;
@@ -134,7 +133,7 @@
 body {
 
     /*background-image: url("https://media.giphy.com/media/43n7h7h3IBqDK/giphy.gif");*/
-   background-image: repeating-linear-gradient(yellow 0, lightblue 100%);
+   background-image: repeating-linear-gradient(yellow 0, lightblue 50%,yellow 100%);
     /*background-color: lightgray;*/
 
 }
@@ -154,7 +153,7 @@ h2{
 }
 
 h3 {
-    font-size: 16px;
+    font-size: 200%;
     color: white;
 
 }
